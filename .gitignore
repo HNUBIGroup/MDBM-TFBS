@@ -1,6 +1,0 @@
-*.pth
-*.bin
-save_model/
-DNABERT/
-.idea/
-__pycache__/
